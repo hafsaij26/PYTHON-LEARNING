@@ -1,42 +1,60 @@
-# 🚀 Project Name
+# 🐍 Python Learning Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge">
-</p>
+Hi! I'm **Hafsa Ijaz** 👋
+
+This repository contains my Python practice programs and exercises as I learn Python from beginner to advanced level.
+
+## 📚 What I'm Learning
+
+* Variables and Data Types
+* Input and Output
+* Conditional Statements (if-else)
+* Loops
+* Functions
+* Object-Oriented Programming (OOP)
+* File Handling
+* Python Libraries
+
+## 💻 Practice Programs
+
+* Hello World
+* Sum of Two Numbers
+* Calculator
+* Number Guessing Game
+* Pattern Printing
+* More coming soon...
+
+## 🎯 My Goals
+
+* Learn Python Programming
+* Build Real-World Projects
+* Learn Artificial Intelligence (AI)
+* Learn Machine Learning
+* Become a Full-Stack Developer
+
+## 🚀 Progress
+
+* ✅ Python Installation
+* ✅ First Program
+* ✅ Basic Syntax
+* ⏳ Functions
+* ⏳ OOP
+* ⏳ Projects
+
+## 🛠 Tools
+
+* Python
+* VS Code
+* Git
+* GitHub
+
+## 👩‍💻 Author
+
+**Hafsa Ijaz**
+
+Learning Python one step at a time 🚀
 
 ---
 
-## 📌 About Project
+⭐ Thanks for visiting my repository!
 
-This project is built using **Python** and demonstrates the implementation of:
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-The goal of this project is to learn and practice Python development while building real-world applications.
-
----
-
-## 🛠 Technologies Used
-
-| Technology | Purpose |
-|------------|----------|
-| Python | Main Programming Language |
-| VS Code | Development Environment |
-| Git | Version Control |
-| GitHub | Repository Hosting |
-
----
-
-## 📂 Project Structure
-
-```bash
-project/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── assets/
