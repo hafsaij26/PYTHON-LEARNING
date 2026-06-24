@@ -26,3 +26,14 @@ elif age>=50:
   print("you are too old for vote")
 else:
   print("invalid")
+
+### for loop
+for i in range(2) : print ("HELLO WORLD")
+for i in range(1,4) : print (i)
+#start,stop,step
+for i in range(2, 15, 4) : print(i)
+#backword
+for i in range(10, 0, -1) : print(i , end=" " )
+print()
+#in string
+for ch in "Hafsa" : print(ch , end="")
