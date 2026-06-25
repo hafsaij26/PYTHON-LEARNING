@@ -37,3 +37,6 @@ for i in range(10, 0, -1) : print(i , end=" " )
 print()
 #in string
 for ch in "Hafsa" : print(ch , end="")
+#loop list
+for item in (1,2,3):
+    print(item)
