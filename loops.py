@@ -40,3 +40,9 @@ for ch in "Hafsa" : print(ch , end="")
 #loop list
 for item in (1,2,3):
     print(item)
+
+#loop through dictionary
+student = {"name : ": "Hafsa", "age": 21}
+
+for key, value in student.items():
+    print(key, value)
