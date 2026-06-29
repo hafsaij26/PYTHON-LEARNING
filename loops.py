@@ -48,3 +48,6 @@ for key, value in student.items():
     print(key, value)
 for key in student():
     print(key)
+
+for value in student.items():
+  print(value)
