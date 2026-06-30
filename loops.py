@@ -61,3 +61,9 @@ for key in student():
 
 for value in student.items():
   print(value)
+
+#while loop
+count=1
+while(count <= 17):
+  print(count)
+  count+= 1
