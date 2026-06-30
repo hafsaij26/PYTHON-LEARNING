@@ -41,6 +41,16 @@ for ch in "Hafsa" : print(ch , end="")
 for item in (1,2,3):
     print(item)
 
+
+name = "Python"
+
+for i in range(len(name)):
+    print(name[i])
+
+st_name = "HAFSAIJAZ"
+for i in range (len(st_name)):
+    print (st_name[i])
+
 #loop through dictionary
 student = {"name : ": "Hafsa", "age": 21}
 
