@@ -85,4 +85,10 @@ number = 0
 
 while number != -1:
     number = int(input("Enter number (-1 to stop): "))
+#counter control loop
+count = 1
+
+while count <= 5:
+    print(count)
+    count += 1
     
