@@ -74,3 +74,9 @@ while False:
     print("Hello")
 
 print("Finished")
+
+i = 1
+
+while i <= 20:
+    print(i)
+    i *= 2
