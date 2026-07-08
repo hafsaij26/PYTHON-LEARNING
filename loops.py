@@ -80,3 +80,9 @@ i = 1
 while i <= 20:
     print(i)
     i *= 2
+#centimental controll loop
+number = 0
+
+while number != -1:
+    number = int(input("Enter number (-1 to stop): "))
+    
