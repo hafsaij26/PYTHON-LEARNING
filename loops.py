@@ -69,3 +69,8 @@ while(count <= 17):
   count+= 1
 
 print("hello")
+#false loop
+while False:
+    print("Hello")
+
+print("Finished")
