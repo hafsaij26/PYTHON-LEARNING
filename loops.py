@@ -92,4 +92,13 @@ count = 1
 while count <= 5:
     print(count)
     count += 1
-    
+
+i = 1
+
+while True:
+    print(i)
+
+    if i == 5:
+        break
+
+    i += 1
