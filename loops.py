@@ -113,3 +113,16 @@ while i < 10:
         continue
 
     print(i)
+
+#menu driven 
+choice = ""
+
+while choice != "3":
+
+    print("1. Add")
+    print("2. Delete")
+    print("3. Exit")
+
+    choice = input("Choose: ")
+
+print("Program Closed")
