@@ -126,3 +126,12 @@ while choice != "3":
     choice = input("Choose: ")
 
 print("Program Closed")
+
+#while loop list of length
+numbers = [10, 20, 30, 40]
+
+i = 0
+
+while i < len(numbers):
+    print(numbers[i])
+    i += 1
