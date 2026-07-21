@@ -5,3 +5,8 @@ def greet():
 greet()
 greet()
 greet()
+
+def greet(name):
+    print("Hello", name)
+
+greet("hafsa")
