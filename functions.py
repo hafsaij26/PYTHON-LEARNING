@@ -29,3 +29,9 @@ def sub(a,b):
 
 print(x)
 sub(10,5)
+#variable
+def demo():
+  x=12
+  return x
+
+demo()
