@@ -18,3 +18,14 @@ def calculate_area(length, width):
 
 result = calculate_area(5, 3)
 print("The area of the rectangle is:", result)
+
+#print and return
+def add(a,b):
+  return a+b
+x=add(10,10)
+
+def sub(a,b):
+  print(a-b)
+
+print(x)
+sub(10,5)
