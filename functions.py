@@ -60,3 +60,9 @@ def add(*numbers):
 print(add(10, 20))
 print(add(10, 20, 30))
 print(add(10, 20, 30, 40))
+
+def hello():
+    for i in range(5):
+        print("Hello")
+
+hello()
