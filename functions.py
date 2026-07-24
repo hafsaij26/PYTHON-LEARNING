@@ -44,3 +44,7 @@ def check(a):
     print("odd")
 
 check(9)
+
+def suq(num):
+  return num*num
+suq(3)
