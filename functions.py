@@ -45,6 +45,6 @@ def check(a):
 
 check(9)
 
-def suq(num):
+def sq(num):
   return num*num
-suq(3)
+sq(3)
