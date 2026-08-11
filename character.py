@@ -8,5 +8,9 @@ for i in range(65 , 70):
      for j in range(65, i+1):
          print(chr(j), end="")
      print()
+n=65
 for i in range(65, 91):
-    
+    for j in range(65, i+1):
+        print(chr(n), end="")
+        n=n+1
+    print()
