@@ -26,3 +26,6 @@ print(student)
 #remove value
 student .pop("age")
 print(student)
+#key
+for key in student:
+    print(key)
