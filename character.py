@@ -19,3 +19,7 @@ for i in range(65, 91):
 student={"name": "Hafsa", "age": 21, "city": "Karachi"}
 print(student())
 print(student.get("name"))
+
+#add value
+student["roll no."]=123
+print(student)
