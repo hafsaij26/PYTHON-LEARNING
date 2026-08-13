@@ -18,3 +18,4 @@ for i in range(65, 91):
 #dictionaries
 student={"name": "Hafsa", "age": 21, "city": "Karachi"}
 print(student())
+print(student.get("name"))
