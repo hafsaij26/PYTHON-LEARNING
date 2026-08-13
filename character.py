@@ -14,3 +14,7 @@ for i in range(65, 91):
         print(chr(n), end="")
         n=n+1
     print()
+
+#dictionaries
+student={"name": "Hafsa", "age": 21, "city": "Karachi"}
+print(student())
