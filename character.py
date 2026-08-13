@@ -29,3 +29,6 @@ print(student)
 #key
 for key in student:
     print(key)
+#value
+for value in student.values():
+    print(value)
