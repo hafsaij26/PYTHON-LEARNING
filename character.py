@@ -23,3 +23,6 @@ print(student.get("name"))
 #add value
 student["roll no."]=123
 print(student)
+#remove value
+student .pop("age")
+print(student)
