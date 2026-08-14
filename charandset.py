@@ -35,3 +35,7 @@ for value in student.values():
 #both
 for key, value in student.items():
     print(key,":", value)
+
+#set
+a={1,2,3,4,5}
+print(a)
