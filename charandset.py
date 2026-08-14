@@ -44,3 +44,6 @@ print(b)
 #union
 print(a|b)
 print(a.union(b))
+#intersection
+print(a&b)
+print(a.intersection(b))
