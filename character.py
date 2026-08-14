@@ -32,3 +32,6 @@ for key in student:
 #value
 for value in student.values():
     print(value)
+#both
+for key, value in student.items():
+    print(key,":", value)
