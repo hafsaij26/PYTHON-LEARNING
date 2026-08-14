@@ -41,3 +41,6 @@ a={1,2,3,4,5}
 print(a)
 b={4,5,6,7,8}
 print(b)
+#union
+print(a|b)
+print(a.union(b))
