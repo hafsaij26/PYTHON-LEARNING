@@ -1,10 +1,13 @@
 class student:
-    name="HAFSA"
-    id=127
-    def _inti_(self, n, i):
-        self.n=name
-        self.i=id
+    
+    def __init__(self, n, i):
+        self.n=n
+        self.i=i
+    def name(self):
+        return self.n
+    def id(self):   
+        return self.i
 
-s1= student()
+s1= student("HAFSA", 127)
 print(s1.name())
 print(s1.id())
