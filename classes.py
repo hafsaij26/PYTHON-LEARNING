@@ -11,3 +11,14 @@ class student:
 s1= student("HAFSA", 127)
 print(s1.name())
 print(s1.id())
+
+class car:
+    def _init_(self, name, brand, number):
+        self.name=name
+        self.brand=brand
+        self.number=number
+    def display(self):
+        return self.name, self.brand, self.number
+car1= car("Civic", "Honda", 1234)
+print(car1.display())
+
