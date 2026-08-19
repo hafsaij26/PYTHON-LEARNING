@@ -47,4 +47,14 @@ class Student(Person):
 s1=Student("Ali", 20)
 print(s1.name)
 print(s1.age)
-        
+#Polymorphism
+class Bird:
+    def intro(self):
+        print("There are many types of birds.")
+class flight:
+    def intro(self):
+        print("Most of the birds can fly but some cannot.")
+b=Bird()
+f=flight()
+b.intro()
+f.intro()
