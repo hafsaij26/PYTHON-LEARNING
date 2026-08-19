@@ -37,3 +37,14 @@ account1.deposit(500)
 print(account1.get_balance())
 account1.withdraw(200)
 print(account1.get_balance())
+#inheritance
+class Person:
+    def __init__(self,name, age):
+        self.name=name
+        self.age=age
+class Student(Person):
+    pass
+s1=Student("Ali", 20)
+print(s1.name)
+print(s1.age)
+        
