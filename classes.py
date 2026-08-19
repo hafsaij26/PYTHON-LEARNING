@@ -21,4 +21,19 @@ class car:
         return self.name, self.brand, self.number
 car1= car("Civic", "Honda", 1234)
 print(car1.display())
-
+# encapsulation
+class Bankaccount:
+    def __init__(self, account, balance):
+        self.__account=account
+        self.__balance=balance
+    def deposit(self, amount):
+        self.__balance += amount
+    def withdraw(self, amount):
+        self.__balance -= amount
+    def get_balance(self):
+        return self.__balance
+account1= Bankaccount("123456", 1000)
+account1.deposit(500)
+print(account1.get_balance())
+account1.withdraw(200)
+print(account1.get_balance())
