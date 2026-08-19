@@ -58,3 +58,19 @@ b=Bird()
 f=flight()
 b.intro()
 f.intro()
+#abstraction
+
+class Vehicle:
+    @abstractmethod
+    def start(self):
+        pass
+class Car(Vehicle):
+    def start(self):
+        print("Car started.")
+class Bike(Vehicle):
+    def start(self):
+        print("Bike started.")
+honda = Car()
+127= Bike()
+honda.start()
+127.start()
