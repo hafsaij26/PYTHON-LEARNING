@@ -3,6 +3,7 @@ print ("hello world")
 #VARIABLES
 name = "HAFSA"
 age = 21
+rollno = 008
 is_student = True
 print (name)
 print (age)
@@ -11,6 +12,7 @@ print (is_student)
 # DATATYPES
 print (type(name))
 print (type(age))
+print (type(rollno))
 print (type(is_student))
 #input function
 name = input("what is your name? ")
