@@ -15,3 +15,4 @@ arr = np.array([
     [70, 80, 90]
 ])
 print(arr[1,1])
+print(arr(1))
