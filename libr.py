@@ -8,3 +8,9 @@ print(n.shape)
 print(n[0])
 print(n[-1])
 print(n.size)
+
+arr = np.array([
+    [10, 20, 30],
+    [40, 50, 60],
+    [70, 80, 90]
+])
