@@ -16,3 +16,5 @@ arr = np.array([
 ])
 print(arr[1,1])
 print(arr(1))
+print(arr[:,2])
+arr[2,1]=100
