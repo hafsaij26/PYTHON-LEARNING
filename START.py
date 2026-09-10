@@ -24,3 +24,8 @@ print ("SUM IS ", num1 + num2)
 print("Length of sum is " , len(str(num1 + num2)))
 mess = f'welcome to my {num1} world to {num2}';
 print(mess)
+name = "mohsin"
+age = 12
+gender ="male"
+mess2 = 'your name is {} and your age is {} and your gender is {}'.format(name, age, gender)
+print(mess2)
