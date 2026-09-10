@@ -21,4 +21,6 @@ print (name)
 num1 = int(input("enter first number: "))
 num2 = int(input("enter second number: "))
 print ("SUM IS ", num1 + num2)
-print("Length of sum is " , len(num1))
+print("Length of sum is " , len(str(num1 + num2)))
+mess = f'welcome to my {num1} world to {num2}';
+print(mess)
