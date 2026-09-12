@@ -27,3 +27,14 @@ print("average is ", np.mean(ar))
 print("sum is ", np.sum(ar))
 print("max is ", np.max(ar))
 print("lowest is:", np.min(ar))
+data = {
+    "Student": ["A", "B", "C", "D"],
+    "Age": [19, 20, 21, 18],
+    "Marks": [75, 88, 92, 64]
+}
+
+df = pd.DataFrame(data)
+
+print(df)
+print(df.shape)
+print(df["Marks"])
