@@ -18,3 +18,8 @@ print(arr[1,1])
 print(arr(1))
 print(arr[:,2])
 arr[2,1]=100
+#random
+ar=np.random.randint(1,100,10)
+print(ar)
+ar=np.random.randint(1, 100,(3,3))
+print(ar)
