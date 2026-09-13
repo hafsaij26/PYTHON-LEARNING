@@ -7,4 +7,6 @@ print(df.head())
 print(df.tail())
 #rows and columns
 print(df.shape)
-print(df.dtypes)
+print(df.dtypes) #data type
+#fill null values
+print(df.isnull().sum())
