@@ -5,3 +5,5 @@ df = pd.read_csv("StudentsPerformance.csv")
 print(df.head())
 #now tail
 print(df.tail())
+#rows and columns
+print(df.shape)
