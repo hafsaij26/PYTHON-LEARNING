@@ -7,3 +7,4 @@ print(df.head())
 print(df.tail())
 #rows and columns
 print(df.shape)
+print(df.dtypes)
