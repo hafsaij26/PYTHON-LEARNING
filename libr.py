@@ -38,3 +38,6 @@ df = pd.DataFrame(data)
 print(df)
 print(df.shape)
 print(df["Marks"])
+
+a,b= map(int,input().split())
+print(a+b)
