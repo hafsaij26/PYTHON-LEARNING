@@ -29,3 +29,4 @@ age = 12
 gender ="male"
 mess2 = 'your name is {} and your age is {} and your gender is {}'.format(name, age, gender)
 print(mess2)
+print(mess2.len())
