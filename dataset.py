@@ -10,5 +10,4 @@ print(df.shape)
 print(df.dtypes) #data type
 print(df.isnull())
 #fill null values
-
 print(df.isnull().sum())
