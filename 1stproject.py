@@ -37,9 +37,12 @@ def mul(a,b):
   return a*b
 def div(a,b):
   return a/b
+def div_int(a,b):
+  return a//b
 add(1,3)
 sub(3,7)
 mul(3,7)
 div(3,7)
 add(6,7)
 div(9,1)
+div_int(4,3)
